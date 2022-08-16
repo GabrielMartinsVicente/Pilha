@@ -1,3 +1,4 @@
+//Gabriel Martins Vicente
 // Trabalho-2-pilhas
 /* Medir  o  tempo  para  inserção  de  1.000.000  milhão  de  inteiros  em  uma  estrutura  de  dados  e  o  tempo  para  percorrer  e  somar  1.000.000  
 de  inteiros  em  uma  determinada  estrutura de dados, e o tempo para garantir que um determinado inteiro já está na pilha. 
